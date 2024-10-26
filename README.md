@@ -11,29 +11,16 @@
 
 ---
 
-### 👀 Intereses
-Estoy altamente interesado en **desarrollar aplicaciones web innovadoras** y explorar **nuevas tecnologías**. Mi enfoque actual es en fortalecer mis habilidades de **desarrollo Full Stack** y construir soluciones eficientes y escalables.
-
 ### 🌱 Actualmente Aprendiendo
 - **Frameworks**: React, Node.js
 - **Backend**: Docker, MySQL, MongoDB
 - **Frontend**: Tailwind CSS, Componentes interactivos
 - **Versionado de Código**: Git y GitHub
 
-### 💞️ Colaboración
-Busco colaborar en proyectos **innovadores** y **creativos** en los que pueda contribuir con mis habilidades en **JavaScript, Python, TypeScript, HTML y CSS**. Estoy emocionado de trabajar con equipos en los que pueda aportar y aprender de desarrolladores experimentados.
-
 ### 🛠️ Habilidades
 **Lenguajes y Tecnologías**  
 - Java, Python, TypeScript, HTML, CSS  
 - React, Node.js, Docker  
 - MySQL, MongoDB  
-
-**Soft Skills**  
-- Pensamiento crítico  
-- Resolución de problemas  
-- Comunicación efectiva  
-- Trabajo en equipo  
-- Liderazgo  
 
 ---
